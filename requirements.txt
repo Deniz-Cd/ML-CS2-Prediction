@@ -1,0 +1,11 @@
+numpy
+pandas
+openpyxl
+scikit-learn
+xgboost
+matplotlib
+requests
+pytz
+
+# only needed for the experimental demo parser (src/demos.py)
+demoparser2
